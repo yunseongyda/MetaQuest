@@ -8,7 +8,6 @@ public class MainApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MainApplication.class, args);
-		"봉팔이 고양이";
 	}
 
 }
